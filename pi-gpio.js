@@ -7,14 +7,14 @@ var gpioAdmin = "gpio-admin",
 	sysFsPath = "/sys/devices/virtual/gpio";
 
 var pinMapping = {
-	"3": 0,
-	"5": 1,
+	"3": 2,
+	"5": 3,
 	"7": 4,
 	"8": 14,
 	"10": 15,
 	"11": 17,
 	"12": 18,
-	"13": 21,
+	"13": 27,
 	"15": 22,
 	"16": 23,
 	"18": 24,
